@@ -1,4 +1,5 @@
 # MY_AI_StudyNote
+## Introduction
 This repository is dedicated to documenting my journey and insights as AI studies. 
 
 ## Overview
